@@ -1,5 +1,5 @@
 # Twitter Clone
-Live Demo: [LIVE DEMO]()
+<!-- Live Demo: [LIVE DEMO]()-->
 
 Summary:<br>
 Listed as Project (or Step) #1-7 of my web development portfolio for TECH I.S. Bootcamp.<br>
